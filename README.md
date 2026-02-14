@@ -3,7 +3,7 @@
 ![Демо работы](./demo.gif)
 
 ## *EN*
-#### Link to the following Spring Boot project without CI/CD setup: https://github.com/AlexForGH/Stage_3_1_SpringBootCloudSimpleMicroservicesBank.git
+#### Link to the previous Spring Boot project without CI/CD setup: https://github.com/AlexForGH/Stage_3_1_SpringBootCloudSimpleMicroservicesBank.git
 #### The project demonstrates development capabilities using Spring Boot microservice application, configuration management organization via Spring Boot Cloud, and security implementation through Spring Security and Keycloak
 #### Technology stack: Spring Framework, Spring Boot, PostgreSQL, HTML, Thymeleaf, Spring Web, Spring Data JPA, Spring Cloud, Docker (Multi Stage Build), Docker Compose, RESTful API, Spring Security, Keycloak.
 
@@ -45,7 +45,7 @@
 
 
 ## *RU*
-#### Ссылка на следующий Spring Boot проект без настройки CI/CD: https://github.com/AlexForGH/Stage_3_1_SpringBootCloudSimpleMicroservicesBank.git
+#### Ссылка на предыдущий Spring Boot проект без настройки CI/CD: https://github.com/AlexForGH/Stage_3_1_SpringBootCloudSimpleMicroservicesBank.git
 #### Проект для демонстрации возможностей разработки с использованием Spring Boot микросервисного приложения, организации управления конфигурациями через Spring Boot Cloud и обеспечения безопасности через Spring Security и Keycloak
 #### Технологический стек: Spring Framework, Spring Boot, PostgreSQL, HTML, Thymeleaf, Spring Web, Spring Data JPA, Spring Cloud, Docker (Multi Stage Build), Docker Compose, RESTful API, Spring Security, Keycloak.
 
